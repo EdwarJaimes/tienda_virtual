@@ -36,6 +36,7 @@ class Conexion{
             echo "No se pudo conectar con la base de datos postgresql";
         }
         //return self::$conexion;
+        //probando edicion y envio desde visual studio code
     }
     
 }
