@@ -37,6 +37,7 @@ class Conexion{
         }
         //return self::$conexion;
         //probando edicion y envio desde visual studio code
+        //nuevos cambios
     }
     
 }
